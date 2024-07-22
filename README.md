@@ -11,24 +11,26 @@ Actualmente, me dedico a desarrollar proyectos que me permiten avanzar en mi for
 Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la programación.
 
 ## ¿Qué tecnologías uso? 🛠️
-Lenguajes y Frameworks:
-JavaScript
-React.js
-Node.js
-Express.js
-PostgreSQL
-HTML
-CSS
-Tailwind CSS
-Styled Components
-Herramientas:
-Git
-Figma
-Photoshop
+### Lenguajes y Frameworks:
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- PostgreSQL
+- HTML
+- CSS
+- Tailwind CSS
+- Styled Components
+
+### Herramientas:
+- Git
+- Figma
+- Photoshop
 
 ## ¡No dudes en contactarme! 📬
 LinkedIn: jonatanmosqueda
 Correo: jonatanmosqueda@gmail.com
+
 
 <!--
 **Jongabee/Jongabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
