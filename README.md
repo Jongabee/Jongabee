@@ -1,16 +1,16 @@
-¡Hola! 👋 Soy Jonatan Mosqueda
+## ¡Hola! 👋 Soy Jonatan Mosqueda
 Soy un programador FullStack con una fuerte orientación al diseño Front-end.
 
-¿Quién soy? 🤔
+## ¿Quién soy? 🤔
 Desde muy joven me ha fascinado el mundo de la programación. En 2013 ingresé a la Armada Argentina, donde adquirí amplios conocimientos y me sometí a capacitaciones constantes. En 2021, tuve la oportunidad de unirme al Departamento de Sistemas de Información, lo que consolidó mi pasión y habilidades en este campo.
 
-¿Qué hago? 💻
+## ¿Qué hago? 💻
 Actualmente, me dedico a desarrollar proyectos que me permiten avanzar en mi formación como programador. Siempre estoy buscando maneras de resolver problemas de la vida cotidiana a través del código.
 
-¿A dónde me dirijo? 🚀
+## ¿A dónde me dirijo? 🚀
 Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la programación.
 
-¿Qué tecnologías uso? 🛠️
+## ¿Qué tecnologías uso? 🛠️
 Lenguajes y Frameworks:
 JavaScript
 React.js
@@ -25,7 +25,8 @@ Herramientas:
 Git
 Figma
 Photoshop
-¡No dudes en contactarme! 📬
+
+## ¡No dudes en contactarme! 📬
 LinkedIn: jonatanmosqueda
 Correo: jonatanmosqueda@gmail.com
 
