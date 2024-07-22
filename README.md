@@ -28,7 +28,7 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 - Photoshop
 
 ### ¡No dudes en contactarme! 📬
-- LinkedIn: jonatanmosqueda
+- LinkedIn: jongabee
 - Correo: jonatanmosqueda@gmail.com
 
 
