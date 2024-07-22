@@ -27,9 +27,9 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 - Figma
 - Photoshop
 
-## ¡No dudes en contactarme! 📬
-LinkedIn: jonatanmosqueda
-Correo: jonatanmosqueda@gmail.com
+### ¡No dudes en contactarme! 📬
+- LinkedIn: jonatanmosqueda
+- Correo: jonatanmosqueda@gmail.com
 
 
 <!--
