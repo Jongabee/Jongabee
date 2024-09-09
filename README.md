@@ -27,7 +27,7 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 - Figma
 
 ### ¡No dudes en contactarme! 📬
-- LinkedIn: jongabee
+[LinkedIn](https://www.linkedin.com/in/jongabee/)
 - Correo: jonatanmosqueda@gmail.com
 
 
