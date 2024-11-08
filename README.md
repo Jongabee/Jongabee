@@ -28,7 +28,7 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 
 ### ¡No dudes en contactarme! 📬
 - [LinkedIn](https://www.linkedin.com/in/jongabee/)
-- [Envíame un correo](mailto:jonatanmosqueda@gmail.com)
+- [Envíame un correo](mailto:jonatanmosqueda@gmail.com).
 
 
 
