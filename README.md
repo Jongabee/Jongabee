@@ -20,7 +20,6 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 - HTML
 - CSS
 - Tailwind CSS
-- Styled Components
 
 ### Herramientas:
 - Git
