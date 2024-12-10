@@ -14,11 +14,11 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 ### Lenguajes y Frameworks:
 - JavaScript
 - React.js
+- Redux
+- Next
 - Node.js
 - Express.js
 - PostgreSQL
-- HTML
-- CSS
 - Tailwind CSS
 
 ### Herramientas:
