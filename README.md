@@ -14,6 +14,7 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 ### Lenguajes y Frameworks:
 - JavaScript
 - React.js
+- React Native
 - Redux
 - Next
 - Node.js
@@ -23,8 +24,7 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 
 ### Herramientas:
 - Git
-- Figma
-
+- 
 ### ¡No dudes en contactarme! 📬
 - [LinkedIn](https://www.linkedin.com/in/jongabee/)
 - [Envíame un correo](mailto:jonatanmosqueda@gmail.com)
