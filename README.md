@@ -18,9 +18,7 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 - Redux
 - Next
 - Node.js
-- Express.js
 - PostgreSQL
-- Tailwind CSS
 
 ### Herramientas:
 - Git
