@@ -1,4 +1,4 @@
-## Hola! 👋 Soy Jona
+## ¡Hola! 👋 Soy Jona
 Soy un programador FullStack con una fuerte orientación al diseño Front-end.
 
 ## ¿Quién soy? 🤔
