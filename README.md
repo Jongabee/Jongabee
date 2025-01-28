@@ -16,6 +16,7 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 - React.js
 - React Native
 - Redux
+- Zustand
 - Next
 - Node.js
 - PostgreSQL
