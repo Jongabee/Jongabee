@@ -1,5 +1,5 @@
 ## ¡Hola! 👋 Soy Jona
-Soy un programador FullStack con una fuerte orientación al diseño Front-end.
+Soy un programador FullStack con una fuerte orientación al diseño Frontend.
 
 ## ¿Quién soy? 🤔
 Desde muy joven me ha fascinado el mundo de la programación. En 2013 ingresé a la Armada Argentina, donde adquirí amplios conocimientos y me sometí a capacitaciones constantes. En 2021, tuve la oportunidad de unirme al Departamento de Sistemas de Información, lo que consolidó mi pasión y habilidades en este campo.
