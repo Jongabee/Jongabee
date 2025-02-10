@@ -19,7 +19,6 @@ Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la
 - Zustand
 - Next
 - Node.js
-- PostgreSQL
 
 ### Herramientas:
 - Git
