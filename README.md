@@ -1,45 +1,59 @@
-## ¡Hola! 👋 Soy Jona
-Soy un programador FullStack con una fuerte orientación al diseño Frontend.
+# 👋 ¡Hola! Soy **Jona**  
+💻 **Desarrollador FullStack** | 🎨 **Frontend Lover & UX/UI Enthusiast** | 🚀 **Apasionado por la innovación digital**
 
-## ¿Quién soy? 🤔
-Desde muy joven me ha fascinado el mundo de la programación. En 2013 ingresé a la Armada Argentina, donde adquirí amplios conocimientos y me sometí a capacitaciones constantes. En 2021, tuve la oportunidad de unirme al Departamento de Sistemas de Información, lo que consolidó mi pasión y habilidades en este campo.
+---
 
-## ¿Qué hago? 💻
-Actualmente, me dedico a desarrollar proyectos que me permiten avanzar en mi formación como programador. Siempre estoy buscando maneras de resolver problemas de la vida cotidiana a través del código.
+## 🧩 Sobre mí  
+Desde joven descubrí que la tecnología no solo resuelve problemas, sino que también transforma vidas.  
+En 2013 me uní a la **Armada Argentina**, donde adquirí disciplina, liderazgo y una mentalidad de mejora continua.  
+En 2021 me incorporé al **Departamento de Sistemas de Información**, consolidando mi pasión por el desarrollo y la innovación.
 
-## ¿A dónde me dirijo? 🚀
-Mi objetivo es continuar aprendiendo y creciendo en este maravilloso mundo de la programación.
+---
 
-## ¿Qué tecnologías uso? 🛠️
-### Lenguajes y Frameworks:
-- JavaScript
-- React.js
-- React Native
-- Redux
-- Zustand
-- Next
-- Node.js
+## 💡 Lo que hago  
+- Diseño interfaces **modernas, rápidas y accesibles** que encantan a los usuarios.  
+- Desarrollo aplicaciones **escalables** con tecnologías de vanguardia.  
+- Busco **optimización y excelencia visual** en cada línea de código.  
 
-### Herramientas:
-- Git
-  
-### ¡No dudes en contactarme! 📬
-- [LinkedIn](https://www.linkedin.com/in/jongabee/)
-- [Envíame un correo](mailto:jonatanmosqueda@gmail.com)
+💬 *"El código es más que funcionalidad; es experiencia."*
 
+---
 
+## 🎯 Objetivo profesional  
+Seguir creciendo como desarrollador **FullStack especializado en Frontend** y aportar a proyectos que generen impacto real.
 
-<!--
-**Jongabee/Jongabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas  
+**Lenguajes & Frameworks:**  
+`JavaScript` | `React.js` | `React Native` | `Next.js` | `Redux` | `Zustand` | `Node.js`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Herramientas & Otros:**  
+`Git` | `API REST` | `Figma` | `Material UI` | `Tailwind CSS`
+
+---
+
+## 📊 Estadísticas de GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jongabee&show_icons=true&theme=tokyonight&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongabee&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jongabee&theme=tokyonight&hide_border=false)  
+
+---
+
+## 🚀 Proyectos destacados  
+- **[📱 App de Gestión de Tareas](#)** – Aplicación móvil con sincronización en tiempo real.  
+- **[🌐 Plataforma E-commerce](#)** – E-commerce con pasarela de pagos y panel admin.  
+- **[📊 Dashboard Interactivo](#)** – Visualización de datos en tiempo real con React y Chart.js.  
+
+---
+
+## 📫 Conecta conmigo  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jongabee/)  
+- 📧 [Email](mailto:jonatanmosqueda@gmail.com)  
+- 🖥️ [Portafolio / GitHub](https://github.com/Jongabee)  
+
+---
+
+💬 **"El mejor código no solo resuelve problemas, también inspira."**
